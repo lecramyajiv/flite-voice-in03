@@ -1,0 +1,5 @@
+This file contains the url of the voice data from were it is sourced.
+
+http://festvox.org/flite/packed/flite-2.3/voices/cmu_indic_hin_ab.flitevox
+http://festvox.org/flite/packed/flite-2.3/voices/cmu_indic_mar_aup.flitevox
+http://festvox.org/flite/packed/flite-2.3/voices/cmu_indic_mar_slp.flitevox
